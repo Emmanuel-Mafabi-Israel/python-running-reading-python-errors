@@ -1,10 +1,6 @@
 # Greeting App - Israel Mafabi Emmanuel
 
-This is a simple Python application that prints a greeting message.
-
-## Features
-
-- Prints a message with a greeting and a name.
+This is a simple Python application that simulates the basic types of errors encountered.
 
 ## Requirements
 
@@ -32,6 +28,7 @@ This is a simple Python application that prints a greeting message.
 
 ## Usage
 
-To run the application, execute the following command:
+To run the required tests, execute the following command:
 ```sh
-python lib/app.py
+pytest
+```
