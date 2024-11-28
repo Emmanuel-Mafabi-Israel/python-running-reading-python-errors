@@ -1,4 +1,4 @@
-# Greeting App - Israel Mafabi Emmanuel
+# Python App - Israel Mafabi Emmanuel
 
 This is a simple Python application that simulates the basic types of errors encountered.
 
